@@ -1,4 +1,4 @@
-# 📊 DS-Projects: A Data Science & Machine Learning Portfolio Collection
+# 📊 Heart Disease Prediction: A Data Science & Machine Learning Project
 
 This repository serves as a centralized collection of my major Data Science and Machine Learning projects, showcasing my skills in data wrangling, exploratory data analysis (EDA), model development, evaluation, and deployment.
 
@@ -60,7 +60,3 @@ To explore any of these projects:
 ## ✉️ Contact
 
 Feel free to connect or reach out!
-
-* **[LinkedIn Profile](https://www.linkedin.com/in/sachin-shah16)**
-* **[Personal Website](https://bit.ly/sachinshah16)**
-* **Email:** sachin.k.shah13@example.com
