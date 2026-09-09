@@ -42,7 +42,7 @@ To explore any of these projects:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/ds-projects.git](https://github.com/sachinshah16/DS_Projects.git)
+    git clone [https://github.com/YourUsername/Heart-Disease-Prediction.git](https://github.com/DattaramMuknak/Heart-Disease-Prediction.git)
     cd ds-projects
     ```
 2.  **Navigate to a Project:**
